@@ -1,0 +1,39 @@
+_repo: Aunt-Jane-s-Nieces-on-Vacation_10059
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Inspired by Louisa May Alcott's Little Women, this book, which Wizard
+  of Oz author L. Frank Baum wrote under the pen name Edith Van Dyne, is much in the
+  same vein as Alcott's cozy coming-of-age tale. The first in a series, the story
+  of this novel follows three nieces who are summoned to their wealthy aunt's estate
+  so she can decide to whom she will bequeath her sizable inheritance. Although the
+  girls couldn't be more different personality-wise, a series of calamities brings
+  them ...
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Newspaper publishing -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Aunt Jane's Nieces on Vacation
+url: http://www.gutenberg.org/ebooks/10059
