@@ -1,5 +1,8 @@
 _repo: Aunt-Jane-s-Nieces-on-Vacation_10059
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -19,6 +22,8 @@ description: Inspired by Louisa May Alcott's Little Women, this book, which Wiza
   so she can decide to whom she will bequeath her sizable inheritance. Although the
   girls couldn't be more different personality-wise, a series of calamities brings
   them ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10059#Aunt-Jane-s-Nieces-on-Vacation
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
